@@ -8,7 +8,7 @@ The goal is to explore price trends, calculate daily returns, compute a 10-day m
 
 Stock_Analysis.xlsx – cleaned dataset, daily returns, 10-day moving average
 
-dashboard_link.txt – Looker Studio dashboard URL
+📄 **Dashboard PDF:** [Click to open](./Dashboard.pdf)
 
 
 README.md – project explanation
@@ -80,7 +80,7 @@ Slicers for dynamic exploration
 
 
 Dashboard Link:
-(available in the dashboard_link.txt file)
+ [Click to open](./Dashboard.pdf)
 
 
 ---
